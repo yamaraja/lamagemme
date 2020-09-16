@@ -1,7 +1,7 @@
 # About
 La Ma'gemme est un livre de Fantasy, finaliste du [Grand Prix 404 édition 2018](https://twitter.com/404editions/status/1036585109326049280).
 
-Vous retrouverez ici les deux premiers chapitres.
+Vous retrouverez [ici](https://lamagemme.netlify.app/) les deux premiers chapitres.
 
 Pour en savoir plus, rendez-vous [__ici__](https://www.lamagemme.fr/).
 
